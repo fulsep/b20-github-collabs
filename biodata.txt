@@ -1,18 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 NAMA = INDRA BUDIMAN
 TTL = BALIKPAPAN, 02 JANUARI 1998
 JENIS KELAMIN = LAKI-LAKI
 DOMISILI = MATARAM, NTB
 =======
 <<<<<<< HEAD
+=======
+name: yosef situmorang
+class: FM batch 20
+>>>>>>> cebde96eee63745421a6f7f1aebb78d1f2fe0f62
 Nama Lengkap = Rizki Ramadhan
 Umur = 18 tahun
 Pendidikan Terakhir = SMK (Rekayasa Perangkat Lunak)
-=======
 name = muhammad zaqi
 fullstack mobile developer  20
+<<<<<<< HEAD
 >>>>>>> e7eeb42780fd71910e27f7d2915692638d174d56
 >>>>>>> 25a26ab7200775ec2b745167036a3ee540181b33
+=======
+>>>>>>> cebde96eee63745421a6f7f1aebb78d1f2fe0f62
 Nama    : Abbi Satria
 TTL     : Karawang, 30 Juni 1998
 Alamat  : Karawang
