@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wkwkwkwkw
 GOOD DAY!!
 muhammad zaqi
@@ -8,3 +9,6 @@ wkwkwkwkw
 TEXT FROM RIZKI'S BRANCH
 Hello my name is abbi
 text indra budiman
+=======
+MATHIUS
+>>>>>>> mathiuskormasela
