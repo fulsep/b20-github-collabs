@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 NAMA = INDRA BUDIMAN
 TTL = BALIKPAPAN, 02 JANUARI 1998
 JENIS KELAMIN = LAKI-LAKI
@@ -7,6 +8,12 @@ DOMISILI = MATARAM, NTB
 =======
 <<<<<<< HEAD
 =======
+=======
+Nama : Mathius Kormasela
+TTL : Jakarta, 04 Oktober 2002
+Pendidikan Terakhir : SMK
+Asal : DKI Jakarta 
+>>>>>>> 05bddcf07cd43ef4966814d36c26f4603a8e977c
 name: yosef situmorang
 class: FM batch 20
 >>>>>>> cebde96eee63745421a6f7f1aebb78d1f2fe0f62
