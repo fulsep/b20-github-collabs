@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Nama Lengkap = Rizki Ramadhan
 Umur = 18 tahun
 Pendidikan Terakhir = SMK (Rekayasa Perangkat Lunak)
+=======
+name = muhammad zaqi
+fullstack mobile developer  20
+>>>>>>> e7eeb42780fd71910e27f7d2915692638d174d56
 Nama    : Abbi Satria
 TTL     : Karawang, 30 Juni 1998
 Alamat  : Karawang
