@@ -1,2 +1,8 @@
 name = muhammad zaqi
 fullstack mobile developer  20
+Nama    : Abbi Satria
+TTL     : Karawang, 30 Juni 1998
+Alamat  : Karawang
+Nama: Ridho
+Kelas: FM-20
+Alamat: karawang
