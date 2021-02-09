@@ -1,5 +1,7 @@
 name: yosef situmorang
 class: FM batch 20
+name = muhammad zaqi
+fullstack mobile developer  20
 Nama    : Abbi Satria
 TTL     : Karawang, 30 Juni 1998
 Alamat  : Karawang
