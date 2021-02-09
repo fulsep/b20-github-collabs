@@ -1,3 +1,7 @@
+NAMA = INDRA BUDIMAN
+TTL = BALIKPAPAN, 02 JANUARI 1998
+JENIS KELAMIN = LAKI-LAKI
+DOMISILI = MATARAM, NTB
 Nama: Shafa naura
 Umur: 19 tahun
 Nama : Mathius Kormasela
