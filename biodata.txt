@@ -1,5 +1,8 @@
 name: yosef situmorang
 class: FM batch 20
+Nama Lengkap = Rizki Ramadhan
+Umur = 18 tahun
+Pendidikan Terakhir = SMK (Rekayasa Perangkat Lunak)
 name = muhammad zaqi
 fullstack mobile developer  20
 Nama    : Abbi Satria
