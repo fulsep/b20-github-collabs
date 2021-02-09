@@ -2,3 +2,9 @@ NAMA = INDRA BUDIMAN
 TTL = BALIKPAPAN, 02 JANUARI 1998
 JENIS KELAMIN = LAKI-LAKI
 DOMISILI = MATARAM, NTB
+Nama    : Abbi Satria
+TTL     : Karawang, 30 Juni 1998
+Alamat  : Karawang
+Nama: Ridho
+Kelas: FM-20
+Alamat: karawang
