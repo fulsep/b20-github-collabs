@@ -1,3 +1,9 @@
 Nama Lengkap = Rizki Ramadhan
 Umur = 18 tahun
 Pendidikan Terakhir = SMK (Rekayasa Perangkat Lunak)
+Nama    : Abbi Satria
+TTL     : Karawang, 30 Juni 1998
+Alamat  : Karawang
+Nama: Ridho
+Kelas: FM-20
+Alamat: karawang
