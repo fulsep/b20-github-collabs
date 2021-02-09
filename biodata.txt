@@ -2,3 +2,16 @@ Nama : Mathius Kormasela
 TTL : Jakarta, 04 Oktober 2002
 Pendidikan Terakhir : SMK
 Asal : DKI Jakarta 
+name: yosef situmorang
+class: FM batch 20
+Nama Lengkap = Rizki Ramadhan
+Umur = 18 tahun
+Pendidikan Terakhir = SMK (Rekayasa Perangkat Lunak)
+name = muhammad zaqi
+fullstack mobile developer  20
+Nama    : Abbi Satria
+TTL     : Karawang, 30 Juni 1998
+Alamat  : Karawang
+Nama: Ridho
+Kelas: FM-20
+Alamat: karawang
